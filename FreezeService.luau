@@ -1,3 +1,12 @@
+--[[
+made by _nyte._ for scripter application, you must not use this or distribute it
+if needed any extra info pls send me a dm
+
+SHOWCASES Videos:
+client-server: https://streamable.com/nn7w55
+getting frozen (without ui): https://streamable.com/ij1k45 
+]]
+
 -- SERVICES
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
